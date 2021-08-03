@@ -143,6 +143,7 @@ function Register({ layout }) {
     lname: "",
     phone: "08032547856",
     email: "",
+    username: "samsin",
     referral: null,
     avatar: null,
     referralLink: "",
