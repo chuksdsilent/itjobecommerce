@@ -189,7 +189,7 @@ function Register({ layout }) {
     })
     .catch(err => {
       setLoading(false)
-      alert.show(err.response.data.email[0], {type: "error"})
+      // alert.show(err.response.data.email[0], {type: "error"})
     })
     console.log(values)
 
